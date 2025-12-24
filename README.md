@@ -197,7 +197,7 @@ Trained decision tree regressor to estimate Codeforces ratings for problems with
 
 ### Overfitting Analysis
 
-![Overfitting Analysis](q10.svg)
+![Overfitting Analysis]
 
 Trained models with varying tree depths (1-30) to analyze bias-variance tradeoff:
 ```python
